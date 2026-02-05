@@ -1,4 +1,4 @@
-![Cloud Engineer Banner](./cloud-storage-background-business-network-design.jpg)
+![Cloud Engineer Banner](./pexels-ron-lach-7858743 (1).jpg)
 
 👋 Hello, I'm Nagesh Jaybhaye!
 
