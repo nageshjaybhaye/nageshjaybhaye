@@ -1,4 +1,4 @@
-![Cloud Engineer Banner](./pexels-ron-lach-7858743 (1).jpg)
+![Cloud Engineer Banner](./banner.jpg)
 
 👋 Hello, I'm Nagesh Jaybhaye!
 
