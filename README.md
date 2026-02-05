@@ -1,3 +1,5 @@
+![Cloud Engineer Banner](./cloud-storage-background-business-network-design.jpg)
+
 👋 Hello, I'm Nagesh Jaybhaye!
 
 Welcome to my GitHub profile! I'm a CloudOps Engineer with around 2 years of hands-on experience in AWS and cloud operations. I’m passionate about building, managing, and maintaining reliable cloud infrastructure, ensuring system availability, performance, and security. I enjoy working with cloud services, Linux systems, and automation to solve real-world operational challenges.
@@ -61,6 +63,6 @@ Feel free to connect with me on LinkedIn or reach out via email.
 
 📧 Email: nageshjaybhaye123@gmail.com 
 🔗 LinkedIn: linkedin.com/in/nagesh.jaybhay
-🌐 Portfolio: https://github.com/nageshjaybhaye/my-portfolio
+🌐 Portfolio: http://amaz-nagesh.s3-website.ap-south-1.amazonaws.com/#about
 
 Thank you for visiting my profile!
