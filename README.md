@@ -57,12 +57,13 @@ Using basic scripting and AWS services to automate routine operational tasks.
 
 I strongly believe in continuous learning. I’m currently improving my skills in advanced AWS services, DevOps tools, automation, and system reliability. I enjoy learning through hands-on practice and real production scenarios.
 
-🤝 Let's Connect
+## 🤝 Let's Connect
 
-Feel free to connect with me on LinkedIn or reach out via email.
+Feel free to connect with me on 🔗[LinkedIn](https://www.linkedin.com/in/nagesh.jaybhay)  
+Check out my [Portfolio Website] 🌐(http://amaz-nagesh.s3-website.ap-south-1.amazonaws.com/#about)  
+or reach out via email at 📧 [nageshjaybhaye123@gmail.com](mailto:nageshjaybhaye123@gmail.com).
 
-📧 Email: nageshjaybhaye123@gmail.com 
-🔗 LinkedIn: linkedin.com/in/nagesh.jaybhay
-🌐 Portfolio: http://amaz-nagesh.s3-website.ap-south-1.amazonaws.com/#about
+I’m always open to discussing new opportunities, collaborations, or just connecting with fellow tech enthusiasts.
 
 Thank you for visiting my profile!
+
