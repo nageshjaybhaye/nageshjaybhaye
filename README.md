@@ -1,6 +1,6 @@
 ![Cloud Engineer Banner](./banner.jpg)
 
-#👋 Hello, I'm Nagesh Jaybhaye!
+ # 👋 Hello, I'm Nagesh Jaybhaye!
 
 Welcome to my GitHub profile! I'm a CloudOps Engineer with around 2 years of hands-on experience in AWS and cloud operations. I’m passionate about building, managing, and maintaining reliable cloud infrastructure, ensuring system availability, performance, and security. I enjoy working with cloud services, Linux systems, and automation to solve real-world operational challenges.
 
@@ -53,7 +53,7 @@ Working with Git, GitHub, and basic CI/CD pipelines to support application deplo
 Automation Support:
 Using basic scripting and AWS services to automate routine operational tasks.
 
-##📚 Learning & Growth
+## 📚 Learning & Growth
 
 I strongly believe in continuous learning. I’m currently improving my skills in advanced AWS services, DevOps tools, automation, and system reliability. I enjoy learning through hands-on practice and real production scenarios.
 
