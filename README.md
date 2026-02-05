@@ -60,7 +60,7 @@ I strongly believe in continuous learning. I’m currently improving my skills i
 Feel free to connect with me on LinkedIn or reach out via email.
 
 📧 Email: nageshjaybhaye123@gmail.com 
-🔗 LinkedIn: linkedin.com/in/nagesh.jaybhay 
+🔗 LinkedIn: linkedin.com/in/nagesh.jaybhay
 🌐 Portfolio: https://github.com/nageshjaybhaye/my-portfolio
 
 Thank you for visiting my profile!
