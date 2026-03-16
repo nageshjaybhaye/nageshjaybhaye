@@ -24,7 +24,11 @@ Welcome to my GitHub profile! I'm a CloudOps Engineer with around 2 years of han
 - CI/CD fundamentals
 - GitHub Actions (basic)
 - Infrastructure monitoring & troubleshooting
-
+- Jenkins
+- Terraform
+- Docker
+- Kubernetes
+  
 💻 Programming & Scripting:
 - Python (basics)
 - Bash scripting (basics)
