@@ -12,8 +12,8 @@ Welcome to my GitHub profile! I'm a CloudOps Engineer with around 2 years of han
 - VPC
 - IAM
 - CloudWatch
-- AWS Lambda (basic)
-- API Gateway (basic)
+- AWS Lambda 
+- API Gateway
 
 🖥️ Operating Systems:
 - Linux (user management, permissions, services, logs)
@@ -22,17 +22,18 @@ Welcome to my GitHub profile! I'm a CloudOps Engineer with around 2 years of han
 🔁 DevOps & Automation:
 - Git & GitHub
 - CI/CD fundamentals
-- GitHub Actions (basic)
+- GitHub Actions 
 - Infrastructure monitoring & troubleshooting
 - Jenkins
 - Terraform
 - Docker
 - Kubernetes
+- Ansible
   
 💻 Programming & Scripting:
-- Python (basics)
-- Bash scripting (basics)
-- Java (basic understanding)
+- Python 
+- Bash scripting 
+- Java 
 
 📊 Monitoring & Operations:
 - Cloud monitoring & alerts
@@ -55,7 +56,10 @@ CI/CD & Version Control Support:
 Working with Git, GitHub, and basic CI/CD pipelines to support application deployments.
 
 Automation Support:
-Using basic scripting and AWS services to automate routine operational tasks.
+Using bash scripting, Terraform and AWS services to automate routine operational tasks.
+
+Devops Tools:
+Docker, Kubernetes, Ansible
 
 ## 📚 Learning & Growth
 
